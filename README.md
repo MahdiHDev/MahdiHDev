@@ -25,10 +25,7 @@ You can customize it further based on your style!
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahdiHDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahdi-hussain-45b11b313/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mahdi.hussain.M/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahdihussa1n/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mahdi_hussain01)  
-
+---
 
 ## ☕ Connect with me!
-[<img src='https://github.com/MahdiHDev/MahdiHDev/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)  [<img src='' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)  
+[<img src='https://github.com/MahdiHDev/MahdiHDev/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mahdi.hussain.M/)  [<img src='https://github.com/MahdiHDev/MahdiHDev/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/mahdihussa1n/)  [<img src='https://github.com/MahdiHDev/MahdiHDev/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://x.com/Mahdi_hussain01)  [<img src='https://github.com/MahdiHDev/MahdiHDev/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahdi-hussain-45b11b313/)  
