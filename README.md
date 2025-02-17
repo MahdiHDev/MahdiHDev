@@ -19,7 +19,7 @@ I'm passionate about creating efficient and scalable solutions, and always eager
 You can customize it further based on your style!
 
 - 🔭 I’m currently working on E commerce (frontend + backend) 
-- 🌱 I’m currently learning Redux toolkit 
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
