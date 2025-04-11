@@ -2,14 +2,12 @@
 ### Hi there 👋, It's Mahdi Hussain
 #### Web Developer (MERN)
 
-Here's a brief description you can use for your GitHub profile:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdihdev&show_icons=true&locale=en&layout=compact" alt="mahdihdev" /></p>
 
 ---
  
 💻 I am a web developer with experience in building dynamic and responsive web applications.   
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdihdev&show_icons=true&locale=en&layout=compact" alt="mahdihdev" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
