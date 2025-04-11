@@ -2,8 +2,6 @@
 ### Hi there 👋, It's Mahdi Hussain
 #### Web Developer (MERN)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdihdev&show_icons=true&locale=en&layout=compact" alt="mahdihdev" /></p>
-
 ---
  
 💻 I am a web developer with experience in building dynamic and responsive web applications.   
@@ -35,9 +33,19 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdihdev&show_icons=true&locale=en" alt="mahdihdev" /></p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mahdihdev&show_icons=true&locale=en" alt="mahdihdev" style="max-width: 100%;" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdihdev" alt="mahdihdev" style="max-width: 100%;" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdihdev&" alt="mahdihdev" /></p>
+
+
 
 
 
