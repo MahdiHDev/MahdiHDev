@@ -8,6 +8,9 @@ Here's a brief description you can use for your GitHub profile:
  
 💻 I am a web developer with experience in building dynamic and responsive web applications.   
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdihdev&show_icons=true&locale=en&layout=compact" alt="mahdihdev" /></p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +35,7 @@ Here's a brief description you can use for your GitHub profile:
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdihdev&show_icons=true&locale=en&layout=compact" alt="mahdihdev" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdihdev&show_icons=true&locale=en" alt="mahdihdev" /></p>
 
