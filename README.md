@@ -38,7 +38,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=mahdihdev&show_icons=true&locale=en" alt="mahdihdev" style="max-width: 100%;" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdihdev" alt="mahdihdev" style="max-width: 100%;" />
+     ![GitHub Streak](https://streak-stats.demolab.com/?user=mahdihdev)
+
     </td>
   </tr>
 </table>
