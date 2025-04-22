@@ -38,8 +38,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=mahdihdev&show_icons=true&locale=en" alt="mahdihdev" style="max-width: 100%;" />
     </td>
     <td align="center" width="50%">
-     ![GitHub Streak](https://streak-stats.demolab.com/?user=mahdihdev)
-
+     <img src="https://streak-stats.demolab.com/?user=mahdiHDev" alt="mahdihdev" style="max-width: 100%;" />
     </td>
   </tr>
 </table>
