@@ -4,7 +4,7 @@
  
 ---
  
-💻 I am a web developer with experience in building dynamic and responsive web applications.  
+💻 I am a web developer with experience in building dynamic and responsive web applications.
 
 
 <h3 align="left">Languages and Tools:</h3>
