@@ -55,7 +55,7 @@ I'm passionate about creating efficient and scalable solutions, and always eager
 --- 
 
 - 🔭 I’m currently working on Inventory Application
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Next JS
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
