@@ -59,7 +59,7 @@ I'm passionate about creating efficient and scalable solutions, and always eager
 
 --- 
 
-- 🔭 I’m currently working on Inventory Application
+- 🔭 I’m currently working on School Managements Application
 - 🌱 I’m currently learning Prisma
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web & Mobile App Development 
