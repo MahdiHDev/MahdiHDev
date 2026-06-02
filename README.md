@@ -4,7 +4,7 @@
  
 ---
  
-💻 I am a web developer with experience in building dynamic and responsive web applications.
+💻 I am a Full Stack web developer with 2+ experience in building dynamic and responsive web applications. And want to work with any freelance project and contribute to proof myself as a mid level dev.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,7 +60,7 @@ I'm passionate about creating efficient and scalable solutions, and always eager
 --- 
 
 - 🔭 I’m currently working on School Managements Application
-- 🌱 I’m currently learning Prisma
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web & Mobile App Development 
 
