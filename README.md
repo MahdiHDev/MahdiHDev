@@ -1,6 +1,6 @@
 
 ### Hi there 👋, It's Mahdi Hussain 
-#### Web Developer (MERN)
+#### Fullstack Web Developer
  
 ---
  
