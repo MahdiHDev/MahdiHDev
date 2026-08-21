@@ -45,15 +45,18 @@
 
 <table width="100%">
   <tr>
+   <td align="center width="50%">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MahdiHDev" alt="GitHub Streak" /></a>
+   </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mahdihdev&show_icons=true&locale=en" alt="mahdihdev" style="max-width: 100%;" />
-    </td>
-    <td align="center" width="50%">
-     <img src="https://streak-stats.demolab.com/?user=mahdiHDev" alt="mahdihdev" style="max-width: 100%;" />
+      <img
+        src="https://ghstats.dev/api/card?username=mahdihdev"
+        alt="Mahdi's GitHub Stats"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
-
 
 
 
