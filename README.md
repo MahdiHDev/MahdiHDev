@@ -68,7 +68,7 @@ I'm passionate about creating efficient and scalable solutions, and always eager
 
 --- 
 
-- 🔭 I’m currently working on School Managements Application
+- 🔭 I’m currently working on School Managements Application and E-commerce Application
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web & Mobile App Development 
